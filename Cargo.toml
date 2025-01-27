@@ -26,7 +26,7 @@ async-trait = "^0.1.85"
 actix-web = "^4.3.1"
 tracing = "0.1.41"
 tracing-subscriber = { version = "0.3.19", features = ["env-filter"] }
-clap = { version = "4.5.26", features = ["derive"] }
+clap = { version = "4.5.27", features = ["derive"] }
 figment = { version = "0.10.19", features = ["yaml", "env"] }
 chrono = { version = "0.4.39", features = ["serde"] }
 uuid = { version = "1.12.0", features = ["v4", "serde"] }
